@@ -1,0 +1,249 @@
+fileFormatVersion: 2
+guid: 53d0cc40bc32341429361e0dd5b3fb3c
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: ankle_L
+    100004: ankle_R
+    100006: Armature
+    100008: chest
+    100010: chest_L
+    100012: chest_R
+    100014: clav_L
+    100016: clav_R
+    100018: eye_L
+    100020: eye_l
+    100022: eye_L_end
+    100024: eye_R
+    100026: eye_r
+    100028: eye_R_end
+    100030: head
+    100032: iris_l
+    100034: iris_r
+    100036: jaw
+    100038: jaw_end
+    100040: neckBase
+    100042: neckMid1
+    100044: neckMid2
+    100046: pelvis_L
+    100048: pelvis_R
+    100050: pelvis_xtra
+    100052: root_bone
+    100054: shellBack_L
+    100056: shellBack_L_end
+    100058: shellBack_R
+    100060: shellBack_R_end
+    100062: shellFront_L
+    100064: shellFront_L_end
+    100066: shellFront_R
+    100068: shellFront_R_end
+    100070: shin_L
+    100072: shin_R
+    100074: shoulder_def_L
+    100076: shoulder_def_L_end
+    100078: shoulder_def_R
+    100080: shoulder_def_R_end
+    100082: shoulder_L
+    100084: shoulder_R
+    100086: subD0
+    100088: tail1
+    100090: tail2
+    100092: tail2_end
+    100094: tailBase
+    100096: thigh_L
+    100098: thigh_R
+    100100: toe1_L
+    100102: toe1_L_end
+    100104: toe1_R
+    100106: toe1_R_end
+    100108: toe2_L
+    100110: toe2_L_end
+    100112: toe2_R
+    100114: toe2_R_end
+    100116: toe_xtra_L
+    100118: toe_xtra_R
+    100120: ulna_L
+    100122: ulna_R
+    100124: wrist_L
+    100126: wrist_L_end
+    100128: wrist_R
+    100130: wrist_R_end
+    400000: //RootNode
+    400002: ankle_L
+    400004: ankle_R
+    400006: Armature
+    400008: chest
+    400010: chest_L
+    400012: chest_R
+    400014: clav_L
+    400016: clav_R
+    400018: eye_L
+    400020: eye_l
+    400022: eye_L_end
+    400024: eye_R
+    400026: eye_r
+    400028: eye_R_end
+    400030: head
+    400032: iris_l
+    400034: iris_r
+    400036: jaw
+    400038: jaw_end
+    400040: neckBase
+    400042: neckMid1
+    400044: neckMid2
+    400046: pelvis_L
+    400048: pelvis_R
+    400050: pelvis_xtra
+    400052: root_bone
+    400054: shellBack_L
+    400056: shellBack_L_end
+    400058: shellBack_R
+    400060: shellBack_R_end
+    400062: shellFront_L
+    400064: shellFront_L_end
+    400066: shellFront_R
+    400068: shellFront_R_end
+    400070: shin_L
+    400072: shin_R
+    400074: shoulder_def_L
+    400076: shoulder_def_L_end
+    400078: shoulder_def_R
+    400080: shoulder_def_R_end
+    400082: shoulder_L
+    400084: shoulder_R
+    400086: subD0
+    400088: tail1
+    400090: tail2
+    400092: tail2_end
+    400094: tailBase
+    400096: thigh_L
+    400098: thigh_R
+    400100: toe1_L
+    400102: toe1_L_end
+    400104: toe1_R
+    400106: toe1_R_end
+    400108: toe2_L
+    400110: toe2_L_end
+    400112: toe2_R
+    400114: toe2_R_end
+    400116: toe_xtra_L
+    400118: toe_xtra_R
+    400120: ulna_L
+    400122: ulna_R
+    400124: wrist_L
+    400126: wrist_L_end
+    400128: wrist_R
+    400130: wrist_R_end
+    2100000: eye.003
+    2100002: eye.002
+    2100004: subD0
+    4300000: eye_l
+    4300002: eye_r
+    4300004: iris_l
+    4300006: iris_r
+    4300008: subD0
+    7400000: Armature|Action
+    9500000: //RootNode
+    13700000: eye_l
+    13700002: eye_r
+    13700004: iris_l
+    13700006: iris_r
+    13700008: subD0
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: eye.002
+    second: {fileID: 2100000, guid: ad70f0423dae2f544bd7811e292abd14, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: eye.003
+    second: {fileID: 2100000, guid: a123bf477acce304b84b768f8dc44090, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: subD0
+    second: {fileID: 2100000, guid: 27e4c6f68137b354baa7e568b0ef8905, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.01
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
