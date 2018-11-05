@@ -20,6 +20,14 @@ public class UIFader : MonoBehaviour {
         uiElement.gameObject.SetActive(false);
     }
 
+    public void ToggleMenu()
+    {
+        if (uiElement.alpha == 0)
+            FadeIn();
+        else
+            FadeOut();
+    }
+
     public IEnumerator FadeUI(CanvasGroup indexUI, float start, float end, float lerpTime = 0.5f)
     {
         float _timeStartedLerping = Time.time;
