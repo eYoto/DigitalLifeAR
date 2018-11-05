@@ -1,0 +1,262 @@
+fileFormatVersion: 2
+guid: e4e5e199c6d409b4a9ebf2f731d32298
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Bone
+    100004: Bone.001
+    100006: Bone.002
+    100008: Bone.003
+    100010: Bone.004
+    100012: Bone.005
+    100014: Bone.006
+    100016: Bone.007
+    100018: Bone.008
+    100020: Bone.009
+    100022: Bone.010
+    100024: Bone.011
+    100026: Bone.012
+    100028: Bone.013
+    100030: Bone.014
+    100032: Bone.014_end
+    100034: Bone.015
+    100036: Bone.016
+    100038: Bone.017
+    100040: Bone.018
+    100042: Bone.019
+    100044: Bone.019_end
+    100046: Bone.020
+    100048: Bone.021
+    100050: Bone.022
+    100052: Bone.023
+    100054: Bone.024
+    100056: Bone.025
+    100058: Bone.025_end
+    100060: Bone.026
+    100062: Bone.026_end
+    100064: Bone.027
+    100066: Bone.027_end
+    100068: Bone.028
+    100070: Bone.028_end
+    100072: Bone.029
+    100074: Bone.029_end
+    100076: Bone.030
+    100078: Bone.030_end
+    100080: Bone.031
+    100082: Bone.031_end
+    100084: Bone.032
+    100086: Bone.032_end
+    100088: CTRL Back.L
+    100090: CTRL Back.L_end
+    100092: CTRL Back.R
+    100094: CTRL Back.R_end
+    100096: CTRL End.R
+    100098: CTRL End.R_end
+    100100: CTRl Ends.L
+    100102: CTRl Ends.L_end
+    100104: CTRL Fin.L
+    100106: CTRL Fin.L_end
+    100108: CTRL Fin.R
+    100110: CTRL Fin.R_end
+    100112: CTRL Head
+    100114: CTRL Head_end
+    100116: CTRL Shoulder.L
+    100118: CTRL Shoulder.L_end
+    100120: CTRL Shoulder.R
+    100122: CTRL Shoulder.R_end
+    100124: 'Kemp '
+    100126: KR Armature
+    100128: Master
+    100130: Sphere
+    100132: Sphere.002
+    400000: //RootNode
+    400002: Bone
+    400004: Bone.001
+    400006: Bone.002
+    400008: Bone.003
+    400010: Bone.004
+    400012: Bone.005
+    400014: Bone.006
+    400016: Bone.007
+    400018: Bone.008
+    400020: Bone.009
+    400022: Bone.010
+    400024: Bone.011
+    400026: Bone.012
+    400028: Bone.013
+    400030: Bone.014
+    400032: Bone.014_end
+    400034: Bone.015
+    400036: Bone.016
+    400038: Bone.017
+    400040: Bone.018
+    400042: Bone.019
+    400044: Bone.019_end
+    400046: Bone.020
+    400048: Bone.021
+    400050: Bone.022
+    400052: Bone.023
+    400054: Bone.024
+    400056: Bone.025
+    400058: Bone.025_end
+    400060: Bone.026
+    400062: Bone.026_end
+    400064: Bone.027
+    400066: Bone.027_end
+    400068: Bone.028
+    400070: Bone.028_end
+    400072: Bone.029
+    400074: Bone.029_end
+    400076: Bone.030
+    400078: Bone.030_end
+    400080: Bone.031
+    400082: Bone.031_end
+    400084: Bone.032
+    400086: Bone.032_end
+    400088: CTRL Back.L
+    400090: CTRL Back.L_end
+    400092: CTRL Back.R
+    400094: CTRL Back.R_end
+    400096: CTRL End.R
+    400098: CTRL End.R_end
+    400100: CTRl Ends.L
+    400102: CTRl Ends.L_end
+    400104: CTRL Fin.L
+    400106: CTRL Fin.L_end
+    400108: CTRL Fin.R
+    400110: CTRL Fin.R_end
+    400112: CTRL Head
+    400114: CTRL Head_end
+    400116: CTRL Shoulder.L
+    400118: CTRL Shoulder.L_end
+    400120: CTRL Shoulder.R
+    400122: CTRL Shoulder.R_end
+    400124: 'Kemp '
+    400126: KR Armature
+    400128: Master
+    400130: Sphere
+    400132: Sphere.002
+    2100000: Sclera.002
+    2100002: Outer_Eye.001
+    2100004: Retop Material
+    2300000: Sphere
+    2300002: Sphere.002
+    3300000: Sphere
+    3300002: Sphere.002
+    4300000: Sphere
+    4300002: Sphere.002
+    4300004: 'Kemp '
+    7400000: KR Armature|Action
+    9500000: //RootNode
+    13700000: 'Kemp '
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: KR Armature|Action
+      takeName: KR Armature|Action
+      firstFrame: 0
+      lastFrame: 60
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.01
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
