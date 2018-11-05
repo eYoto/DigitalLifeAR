@@ -1,0 +1,226 @@
+fileFormatVersion: 2
+guid: 1510efb8207d67440b016488d150bda3
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Flipper_L.001
+    100002: Flipper_L.002
+    100004: Flipper_L.003
+    100006: Flipper_L.004
+    100008: Flipper_L.005
+    100010: Flipper_L.005_end
+    100012: Flipper_L.006
+    100014: Flipper_L.006_end
+    100016: Flipper_R.001
+    100018: Flipper_R.002
+    100020: Flipper_R.003
+    100022: Flipper_R.004
+    100024: Flipper_R.005
+    100026: Flipper_R.005_end
+    100028: Flipper_R.006
+    100030: Flipper_R.006_end
+    100032: //RootNode
+    100034: Hawksbill.armature
+    100036: Hawksbill.mesh
+    100038: Head.001
+    100040: Head.002
+    100042: Head.003
+    100044: Hind_L.001
+    100046: Hind_L.002
+    100048: Hind_L.003
+    100050: Hind_L.003_end
+    100052: Hind_R.001
+    100054: Hind_R.002
+    100056: Hind_R.003
+    100058: Hind_R.003_end
+    100060: Jaw
+    100062: Jaw_end
+    100064: Root
+    100066: Tail
+    100068: Tail_end
+    400000: Flipper_L.001
+    400002: Flipper_L.002
+    400004: Flipper_L.003
+    400006: Flipper_L.004
+    400008: Flipper_L.005
+    400010: Flipper_L.005_end
+    400012: Flipper_L.006
+    400014: Flipper_L.006_end
+    400016: Flipper_R.001
+    400018: Flipper_R.002
+    400020: Flipper_R.003
+    400022: Flipper_R.004
+    400024: Flipper_R.005
+    400026: Flipper_R.005_end
+    400028: Flipper_R.006
+    400030: Flipper_R.006_end
+    400032: //RootNode
+    400034: Hawksbill.armature
+    400036: Hawksbill.mesh
+    400038: Head.001
+    400040: Head.002
+    400042: Head.003
+    400044: Hind_L.001
+    400046: Hind_L.002
+    400048: Hind_L.003
+    400050: Hind_L.003_end
+    400052: Hind_R.001
+    400054: Hind_R.002
+    400056: Hind_R.003
+    400058: Hind_R.003_end
+    400060: Jaw
+    400062: Jaw_end
+    400064: Root
+    400066: Tail
+    400068: Tail_end
+    2100000: hawksbill.body
+    2100002: outer
+    2100004: hawksbill.eyes
+    4300000: Hawksbill.mesh
+    7400000: Hawksbill.armature|Hawksbill.armatureAction
+    7400002: Hawksbill.armature|Hawksbill.meshAction
+    9500000: //RootNode
+    13700000: Hawksbill.mesh
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: hawksbill.eyes
+    second: {fileID: 2100000, guid: 1ef474aa702cc664bac107c60156b522, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Hawksbill.armature|Hawksbill.armatureAction
+      takeName: Hawksbill.armature|Hawksbill.armatureAction
+      firstFrame: 0
+      lastFrame: 30
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Hawksbill.armature|Hawksbill.meshAction
+      takeName: Hawksbill.armature|Hawksbill.meshAction
+      firstFrame: 0
+      lastFrame: 1
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.01
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

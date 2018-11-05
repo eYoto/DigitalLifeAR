@@ -1,0 +1,241 @@
+fileFormatVersion: 2
+guid: d0552775d697db04a8e90e5a9fc46d31
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Body
+    100002: Body.001
+    100004: Body.002
+    100006: Body.003
+    100008: Body.004
+    100010: Body.004_end
+    100012: Body.005
+    100014: Body.005_end
+    100016: Body.006
+    100018: 'BT Shark '
+    100020: CTRL Head
+    100022: CTRL Head_end
+    100024: CTRL L Body
+    100026: CTRL L Body.001
+    100028: CTRL L Body.001_end
+    100030: CTRL L Body_end
+    100032: CTRL Mid
+    100034: CTRL Mid_end
+    100036: CTRL Secondary'
+    100038: CTRL Secondary'_end
+    100040: CTRL Tail
+    100042: CTRL Tail End
+    100044: CTRL Tail End_end
+    100046: CTRL Tail_end
+    100048: Head
+    100050: Head.001
+    100052: Head.001_end
+    100054: Master Bone
+    100056: //RootNode
+    100058: Shark Armature
+    100060: V1
+    100062: V1.001
+    100064: V1.002
+    100066: V1.003
+    100068: V1.004
+    100070: V1.005
+    100072: V1.006
+    100074: V1.007
+    100076: V1.008
+    100078: V1.009
+    100080: V1.010
+    100082: V1.011
+    100084: V1.012
+    100086: V1.013
+    100088: V1.014
+    100090: V1.015
+    100092: V1.016
+    100094: V1.016_end
+    100096: V1.017
+    100098: V1.018
+    100100: V1.019
+    100102: V1.019_end
+    100104: V1.020
+    100106: V1.020_end
+    100108: V1.021
+    100110: V1.021_end
+    100112: V1.023
+    100114: V1.023_end
+    100116: V1.025
+    100118: V1.025_end
+    400000: Body
+    400002: Body.001
+    400004: Body.002
+    400006: Body.003
+    400008: Body.004
+    400010: Body.004_end
+    400012: Body.005
+    400014: Body.005_end
+    400016: Body.006
+    400018: 'BT Shark '
+    400020: CTRL Head
+    400022: CTRL Head_end
+    400024: CTRL L Body
+    400026: CTRL L Body.001
+    400028: CTRL L Body.001_end
+    400030: CTRL L Body_end
+    400032: CTRL Mid
+    400034: CTRL Mid_end
+    400036: CTRL Secondary'
+    400038: CTRL Secondary'_end
+    400040: CTRL Tail
+    400042: CTRL Tail End
+    400044: CTRL Tail End_end
+    400046: CTRL Tail_end
+    400048: Head
+    400050: Head.001
+    400052: Head.001_end
+    400054: Master Bone
+    400056: //RootNode
+    400058: Shark Armature
+    400060: V1
+    400062: V1.001
+    400064: V1.002
+    400066: V1.003
+    400068: V1.004
+    400070: V1.005
+    400072: V1.006
+    400074: V1.007
+    400076: V1.008
+    400078: V1.009
+    400080: V1.010
+    400082: V1.011
+    400084: V1.012
+    400086: V1.013
+    400088: V1.014
+    400090: V1.015
+    400092: V1.016
+    400094: V1.016_end
+    400096: V1.017
+    400098: V1.018
+    400100: V1.019
+    400102: V1.019_end
+    400104: V1.020
+    400106: V1.020_end
+    400108: V1.021
+    400110: V1.021_end
+    400112: V1.023
+    400114: V1.023_end
+    400116: V1.025
+    400118: V1.025_end
+    2100000: Diffuse
+    2100002: Diffuse Eye
+    4300000: 'BT Shark '
+    7400000: Shark Armature|Action
+    9500000: //RootNode
+    13700000: 'BT Shark '
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Shark Armature|Action
+      takeName: Shark Armature|Action
+      firstFrame: 0
+      lastFrame: 79
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.01
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
