@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
   <Tracking>
-    <ImageTarget name="Ridley_Turtle_Code" size="3.000000 3.067568" />
-    <ImageTarget name="Loggerhead_Code" size="3.000000 3.067568" />
-    <ImageTarget name="Hawksbill_Code" size="3.000000 3.067568" />
-    <ImageTarget name="Sea_Turtle_Code" size="3.000000 3.067568" />
-    <ImageTarget name="Shark_Code" size="3.000000 3.067568" />
+    <ImageTarget name="Shark_Code" size="3.000000 3.067003" />
+    <ImageTarget name="Sea_Turtle_Code" size="3.000000 3.067003" />
+    <ImageTarget name="Hawksbill_Code" size="3.000000 3.067003" />
+    <ImageTarget name="Loggerhead_Code" size="3.000000 3.067003" />
+    <ImageTarget name="Ridley_Turtle_Code" size="3.000000 3.067003" />
     <ImageTarget name="digital_Life_Target_Image_Test1" size="1.000000 1.022523" />
     <ImageTarget name="dollarImage" size="5.000000 2.170088" />
   </Tracking>
