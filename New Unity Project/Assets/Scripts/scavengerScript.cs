@@ -1,46 +1,21 @@
-﻿using UnityEngine;
-using System.Collections;
+﻿using System.Collections;
+using System.Collections.Generic;
+using UnityEngine;
 using Vuforia;
 
-public class ButtonPopup : MonoBehaviour, ITrackableEventHandler
-{
-
-    private TrackableBehaviour mTrackableBehaviour;
-
-    private bool mShowGUIButton = false;
-    private Rect mButtonRect = new Rect(50, 50, 120, 60);
-
-    void Start()
-    {
-        mTrackableBehaviour = GetComponent<TrackableBehaviour>();
-        if (mTrackableBehaviour)
+public class scavengerScript : MonoBehaviour {
+    public TrackableBehaviour myTrackableBehaviour;
+	// Use this for initialization
+	void Start () {
+        myTrackableBehaviour = GetComponent<TrackableBehaviour>();
+        if (myTrackableBehaviour.TrackableName == "Loggerhead")
         {
-            mTrackableBehaviour.RegisterTrackableEventHandler(this);
+            Debug.Log("k");
         }
     }
-
-    public void OnTrackableStateChanged(
-                                    TrackableBehaviour.Status previousStatus,
-                                    TrackableBehaviour.Status newStatus)
-    {
-        if (newStatus == TrackableBehaviour.Status.DETECTED ||
-            newStatus == TrackableBehaviour.Status.TRACKED)
-        {
-            mShowGUIButton = true;
-        }
-        else
-        {
-            mShowGUIButton = false;
-        }
+	
+	// Update is called once per frame
+	void Update () {
+        
     }
-
-    void OnGUI()
-    {
-        if (mShowGUIButton)
-        {
-            // draw the GUI button
-            if (GUI.Button(mButtonRect, "Hello"))
-            {
-                // do something on button click 
-            }
-        }
+}
