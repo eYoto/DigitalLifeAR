@@ -9,9 +9,10 @@ public class scavengerScript : DefaultTrackableEventHandler {
 
     public string imageName;
 
-    // Update is called once per frame
     protected override void Start()
     {
+        Debug.Log("My turtle is: " + PlayerPrefs.GetInt("LoggerT"));
+        Debug.Log("My turtle is: " + PlayerPrefs.GetInt("LoggerT"));
         Debug.Log("My turtle is: " + PlayerPrefs.GetInt("LoggerT"));
     }
 
