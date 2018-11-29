@@ -12,8 +12,8 @@ public class scavengerScript : DefaultTrackableEventHandler {
     protected override void Start()
     {
         Debug.Log("My turtle is: " + PlayerPrefs.GetInt("LoggerT"));
-        Debug.Log("My turtle is: " + PlayerPrefs.GetInt("LoggerT"));
-        Debug.Log("My turtle is: " + PlayerPrefs.GetInt("LoggerT"));
+        Debug.Log("My Hawksbill is: " + PlayerPrefs.GetInt("HawksbillT"));
+        Debug.Log("My Green is: " + PlayerPrefs.GetInt("GreenT"));
     }
 
 
