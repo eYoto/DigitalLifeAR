@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using UnityEngine;
 
 public class rotateController : MonoBehaviour {
-    private float rotationRate = 3.0f;
+    private float rotationRate = 0.3f;
 
     void Update()
     {
